@@ -1,7 +1,10 @@
 # Arduino-analog-voltage-foundation
 My first embedded systems project exploring Arduino ADC, binary represention and 7 Segment display.
+
 Project Overview:
+
 This project marks the beginning of my embedded systems journey.
+
 Rather than immediately using sensors,I first wanted to understand how microcontrollers measure analog voltages using ADCs.
 The concepts that i learnt here will help me futher in my future projects involving water level monitoring,soil mositure and industrial automation.
 
