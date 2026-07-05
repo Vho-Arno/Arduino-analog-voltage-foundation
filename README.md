@@ -1,3 +1,4 @@
+<img width="1200" height="1600" alt="p1" src="https://github.com/user-attachments/assets/111b7d78-d838-4d09-9b91-04de01f33944" />
 # Arduino-analog-voltage-foundation
 My first embedded systems project exploring Arduino ADC, binary represention and 7 Segment display.
 
